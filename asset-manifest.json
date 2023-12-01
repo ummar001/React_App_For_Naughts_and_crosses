@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_App_For_Naughts_and_crosses/static/css/main.04d77bcf.css",
+    "main.js": "/React_App_For_Naughts_and_crosses/static/js/main.8fac5958.js",
+    "static/js/787.4bc435fe.chunk.js": "/React_App_For_Naughts_and_crosses/static/js/787.4bc435fe.chunk.js",
+    "index.html": "/React_App_For_Naughts_and_crosses/index.html",
+    "main.04d77bcf.css.map": "/React_App_For_Naughts_and_crosses/static/css/main.04d77bcf.css.map",
+    "main.8fac5958.js.map": "/React_App_For_Naughts_and_crosses/static/js/main.8fac5958.js.map",
+    "787.4bc435fe.chunk.js.map": "/React_App_For_Naughts_and_crosses/static/js/787.4bc435fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04d77bcf.css",
+    "static/js/main.8fac5958.js"
+  ]
+}
